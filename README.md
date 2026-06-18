@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on custom business solutions
-- 🌱 I’m currently learning Livewire 3
+- 🌱 I’m currently learning React & Inertia.js
 - 👯 I’m looking to collaborate on local business project
 - 🤔 I’m looking for help with Learning new stack
 - 💬 Ask me about computers and general tech stuffs
