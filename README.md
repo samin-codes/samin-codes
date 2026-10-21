@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hi, I'm Samin 👋
 
-- 🔭 I’m currently working on custom business solutions
-- 🌱 I’m currently learning React & Inertia.js
-- 👯 I’m looking to collaborate on local business project
-- 🤔 I’m looking for help with Learning new stack
-- 💬 Ask me about computers and general tech stuffs
-- 📫 How to reach me: Gmail - samiulislamsamin7@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: When i play online tactical shooter game, i get way to serious.
+Software Engineer at **Nextgen Innovation Ltd** (Dhaka, Bangladesh) with 3+ years of experience building production web applications with **Laravel**, **Node.js**, **Vue.js**, and **React**.
 
+- 🏥 Built and maintained systems for hospitals, banks, manufacturing, and government clients, including Hospital ERP, Quality & Lab Information Management, CMS, and automation tools
+- ⚡ Cut a hospital ERP's financial report generation time from 2–3 minutes to 10–15 seconds
+- 🚀 Handle VPS setup and production deployments with Nginx, Apache, PM2, and Supervisor
+- 🤖 Use AI coding agents (Claude Code, Codex, OpenCode) daily, and review and own everything they produce
+- 🌱 Currently building with the Laravel + Inertia.js + React stack
+
+**Tech:** PHP · Laravel · Livewire · Filament · Node.js · Express · TypeScript · React · Vue.js · Inertia.js · Tailwind CSS · MySQL · PostgreSQL · Oracle
+
+**Featured project:** [Easy Business Management](https://github.com/samin-codes/easy-business-management), an inventory, invoicing, and sales app built with Laravel 12, Inertia.js, React 19, and Pest
+
+📫 [LinkedIn](https://www.linkedin.com/in/samiul-islam-samin) · samiulislamsamin7@gmail.com
